@@ -4,7 +4,7 @@ Clean your files, junk, duplicates, malware, registry and more in a single tool
 # Rebuilding from source
 .DLL Packages from NuGet are not comitted and has to reinstall.<br/>
 <br/>
-Please refere to the packages.config to check what packages are installed<br/>
+Please refer to the packages.config to check what packages are installed<br/>
 packages.config<br/>
 &lt;?xml version="1.0" encoding="utf-8"?><br/>
 &lt;packages><br/>
